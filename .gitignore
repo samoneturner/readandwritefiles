@@ -1,1 +1,4 @@
-.myvenv/
+.myvenv/ 
+
+.vscode.myvenv/
+
